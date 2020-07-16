@@ -36,10 +36,9 @@ body {
 
 
 header {
-    margin-top: 20rem;
-    display: inline;
-    padding: 20rem;
-    color: black;
+  margin: 25px;
+  padding: 100px;
+  color: black;
   }
 
 nav {
@@ -47,12 +46,13 @@ nav {
   font-size: 2rem;
   color:white;
 
+
   
 }
 .plan {
-  border-radius: 25px;
+  border-radius: 2.5rem;
   background: #FF764E;
-  padding: 20px;
+  padding: 2rem;
   width: 31%;
   margin: 1%;
 }
@@ -85,12 +85,15 @@ nav {
  footer {
     margin: 25px;
     padding: 200px;
+    background-color: #F9E7DC
+
 }
 
 h1 {
   font-size: 6rem;
   font-family: Chelsea Market;
   color: black;
+ 
 }
 div.container {
   font-size: 1.5rem;
@@ -133,4 +136,7 @@ div.container {
   font-size: 1.6rem;
   color: black;
   text-align: center;
+}
+span {
+  font-weight: bold;
 }
